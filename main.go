@@ -15,7 +15,7 @@ import (
 	"net/http"
 )
 
-var accessToken = "AgAEA7qi4nN5AAWwBP2NThoJI09GrSb21qEX85s" // Insert access token here
+var accessToken = "" // Insert access token here
 
 var sizes = []int{10, 25, 50, 100, 200} // Sire array in MB
 
